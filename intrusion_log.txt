@@ -1,0 +1,3 @@
+# HackFreeBank Intrusion Log
+# Format: [YYYY-MM-DD HH:MM:SS] Connection attempt from IP:PORT - Message
+
